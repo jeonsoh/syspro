@@ -1,4 +1,1 @@
-<head>
-	hi
-</head>
-
+hello
